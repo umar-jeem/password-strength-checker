@@ -48,6 +48,5 @@ Password Strength: Strong 💪
 
 ---
 
-Made with ❤️ by [Md Umar Hasas](https://github.com/your-username)
+Made with ❤️ by [Md Umar Hasan](https://github.com/your-username)
 
-````
